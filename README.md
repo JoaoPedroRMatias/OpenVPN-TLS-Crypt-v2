@@ -46,3 +46,5 @@ O objetivo desta passo a passo é explicar minuciosamente como é feita uma VPN 
 <code>sudo ufw allow 22/tcp</code>
 
 <code>sudo ufw allow 21/tcp</code>
+
+<strong>--- AINDA EM DESENVOLVIMENTO ---</strong>
