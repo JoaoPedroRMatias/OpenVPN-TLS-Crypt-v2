@@ -1,6 +1,6 @@
 <h1>Servidor OpenVPN utilizando TLS Crypt v2</h1> 
 
-O objetivo desta passo a passo é explicar minuciosamente como é feita uma VPN e também, explicar os termos e tecnologias que serão usadas. Rodando OpenVPN em um Ubuntu Server vamos utilizar o TLS Crypt v2, que vai disponibilizar uma chave tls-crypt para cada usuário. A principal intenção do uso do TLS Crypt é reduzir os danos caso a chave tls-crypt seja comprometida.
+O objetivo desta passo a passo é explicar minuciosamente como é feita uma VPN e também, explicar os termos e tecnologias que serão usadas. Rodando OpenVPN em um Ubuntu Server vamos utilizar o TLS Crypt v2, que vai disponibilizar uma chave tls-crypt para cada usuário, a principal intenção do uso do TLS Crypt é reduzir os danos caso a chave tls-crypt seja comprometida.
 
 <h2>Instalando o OpenVPN e suas dependências</h2>
 <h3>OpenVPN</h3>
